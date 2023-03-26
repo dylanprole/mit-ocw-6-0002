@@ -22,7 +22,7 @@ they are tryting to maximise the value of goods they steal.
     expensive thing until it runs out, then move to the second most expensive thing.
 
 ### 0/1 Knapsack Problem
-- Each item represented by a pair, $<value, weight>$
+- Each item represented by a pair, <$value, weight$>
 - Knapsack can accomodate items with a total weight of no more than $w$
 - A vector, $L$, of length $n$, represents the set of available itmes. each element of the 
 vector is an item

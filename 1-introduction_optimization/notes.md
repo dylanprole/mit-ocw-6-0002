@@ -31,7 +31,7 @@ vector is an item
     - if $V[i]$ == 0: $L[i]$ is not selected
 
 #### Objective function:
-- $Maximise: \sum_{i=0}{N-1} V[i]*L[i].value$
+- $Maximise: \sum_{i=0}^^{N-1} V[i]*L[i].value$
 - $Constraint: \sum_{i=0}^{N-1} V[i]*L[i].weight \leq w$
 
 #### Brute Force solving (usually not the best):
